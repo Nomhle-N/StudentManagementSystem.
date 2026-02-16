@@ -16,10 +16,15 @@ UndergraduateStudent ug = new UndergraduateStudent.Builder("2258412", "Anelisa")
 .build();
 
 GraduateStudent grad = new GraduateStudent.Builder("2514896", "Azola")
+
 .email("2514896@mycput.ac.za")
+
 .department("Information Technology")
+
 .researchAssistant(true)
+
 .stipend(2500)
+
 .build();
 
 Inheritance and Polymorphism-
