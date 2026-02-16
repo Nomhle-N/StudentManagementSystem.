@@ -60,6 +60,8 @@ How to Run-
 2. Run Main.java.
 3. The student details and tuition will display.
 
+Module - ADP372S Mini Assignment 1
+
 
 
 
