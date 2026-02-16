@@ -6,6 +6,7 @@ It makes the code easier to read and allows optional values.
 Example from this project:
 
 UndergraduateStudent ug = new UndergraduateStudent.Builder("2258412", "Anelisa")
+
 .email("2258412@cput.ac.za")
 
 .department("Marketing")
