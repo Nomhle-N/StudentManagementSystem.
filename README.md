@@ -44,6 +44,7 @@ za.ac.cput (package)
 -GraduateStudent.java
 main
 -Main.java
+
 How to Run-
 1. Open the project in IntelliJ IDEA.
 2. Run Main.java.
