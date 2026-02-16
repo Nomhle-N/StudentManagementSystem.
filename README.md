@@ -61,6 +61,8 @@ How to Run-
 3. The student details and tuition will display.
 
 Module - ADP372S Mini Assignment 1
+Name - Nomhle Njengele
+Student Number - 216227488
 
 
 
